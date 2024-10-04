@@ -52,4 +52,4 @@
 | <img src="https://github.com/VishalKumar-S.png" width="50"> | [VishalKumar-S](https://github.com/VishalKumar-S) |
 | <img src="https://github.com/Vishal-R-310.png" width="50"> | [Vishal-R-310](https://github.com/Vishal-R-310) |
 | <img src="https://github.com/Vishnuvardan6.png" width="50"> | [Vishnuvardan6](https://github.com/Vishnuvardan6) |
-| <img src="https://github.com/Yaswanthyss.png" width="50"> | [Yaswanthyss](https
+| <img src="https://github.com/Yaswanthyss.png" width="50"> | [Yaswanthyss](https://github.com/Yaswanthyss) |
